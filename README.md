@@ -1,5 +1,6 @@
 # Tango-googlecalendar-taskhandler--- HACKATHON PROJECT
-## Tango will get all of your to do chores at home and will acommodate them around your busy schedule to get them done in your free time (Google Calendar)!
+## Tango will get all of your to do chores at home and will acommodate them around your busy schedule to get them done in your free time (Google Calendar).
+### Project Demo: https://devpost.com/software/tango-85s7tx
 
 
 ### Set-Up : 
